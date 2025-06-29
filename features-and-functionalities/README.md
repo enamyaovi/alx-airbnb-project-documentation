@@ -1,7 +1,7 @@
 
 ##  Airbnb Clone Web App – Functionality Overview
 
-This [diagram]() illustrates the **core features** supported by the backend of the Airbnb Clone project. It breaks down major functionality into modular service blocks, each highlighting the responsibilities of the system in areas such as authentication, property management, booking, payments, and admin control.
+This [diagram](https://github.com/enamyaovi/alx-airbnb-project-documentation/blob/main/features-and-functionalities/airbnb_features.drawio.png) illustrates the **core features** supported by the backend of the Airbnb Clone project. It breaks down major functionality into modular service blocks, each highlighting the responsibilities of the system in areas such as authentication, property management, booking, payments, and admin control.
 
 These features guide the database design, API routes, and service logic that power the application.
 
@@ -16,4 +16,4 @@ These features guide the database design, API routes, and service logic that pow
 - **Reviews & Ratings**: Users can leave reviews, hosts can reply and verify.
 - **Admin Interface**: Control panel for managing users, listings, bookings, and payments.
 
-👉 Refer to the [Functionality Diagram](<INSERT_DIAGRAM_LINK_HERE>) for a visual breakdown and this [README.md]() for detailed breakdown.
+👉 Refer to the [Functionality Diagram](https://github.com/enamyaovi/alx-airbnb-project-documentation/blob/main/features-and-functionalities/airbnb_features.drawio.png) for a visual breakdown and this [README.md]() for detailed breakdown.
